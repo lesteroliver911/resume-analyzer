@@ -1,0 +1,7 @@
+flask
+python-dotenv
+llama-parse
+langchain-openai
+faiss-cpu
+langchain
+werkzeug
